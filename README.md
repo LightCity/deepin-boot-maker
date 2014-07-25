@@ -79,8 +79,9 @@ cp $QtInstallPath/qml/Qt/labs/folderlistmodel/libqmlfolderlistmodelp
 ```
 
 **Linux平台**
-
+```
 cd src
 qmake
 make
 sudo ../build/release/deepin-boot-maker
+```
