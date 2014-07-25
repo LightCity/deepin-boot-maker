@@ -76,6 +76,7 @@ cp $QtInstallPath/qml/QtQuick/Controls/libqtquickcontrolsplugin.dylib  ../build/
 cp $QtInstallPath/qml/QtQuick/Window.2/libwindowplugin.dylib ../build/release/deepin-boot-maker.app/Contents/MacOS/
 cp $QtInstallPath/qml/QtQuick.2/libqtquick2plugin.dylib ../build/release/deepin-boot-maker.app/Contents/MacOS/
 cp $QtInstallPath/qml/Qt/labs/folderlistmodel/libqmlfolderlistmodelp
+```
 
 **Linux平台**
 
